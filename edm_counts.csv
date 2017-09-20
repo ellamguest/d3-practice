@@ -1,0 +1,800 @@
+pcount,scount,party,name,colour
+27.0,382.0,Labour,"Abbott, Diane",red
+1.0,134.0,Labour,"Abrahams, Debbie",red
+2.0,15.0,Conservative,"Adams, Nigel",blue
+1.0,4.0,Conservative,"Afriyie, Adam",blue
+0.0,1066.0,Scottish National Party,"Ahmed-Sheikh, Tasmina",yellow
+9.0,126.0,Labour,"Ainsworth, Bob",red
+10.0,187.0,Conservative,"Aldous, Peter",blue
+0.0,3.0,Labour,"Alexander, Douglas",red
+2.0,271.0,Labour,"Alexander, Heidi",red
+1.0,78.0,Labour,"Ali, Rushanara",red
+6.0,155.0,Labour,"Allen, Graham",red
+0.0,1.0,Conservative,"Allen, Heidi",blue
+0.0,12.0,Labour,"Allin-Khan, Rosena",red
+0.0,6.0,Labour,"Amesbury, Mike",red
+49.0,497.0,Conservative,"Amess, David",blue
+67.0,1722.0,Labour,"Anderson, David",red
+3.0,29.0,Conservative,"Andrew, Stuart",blue
+0.0,9.0,Labour,"Antoniazzi, Tonia",red
+4.0,25.0,Conservative,"Arbuthnot, James",blue
+5.0,427.0,Scottish National Party,"Arkless, Richard",yellow
+0.0,30.0,Labour/Co-operative,"Ashworth, Jon",pink
+1.0,6.0,Labour,"Austin, Ian",red
+2.0,35.0,Conservative,"Bacon, Richard",blue
+5.0,142.0,Labour,"Bailey, Adrian",red
+0.0,6.0,Labour,"Bain, William",red
+0.0,2.0,Conservative,"Baker, Steven",blue
+15.0,101.0,Conservative,"Baldry, Tony",blue
+0.0,11.0,Labour,"Balls, Edward",red
+6.0,130.0,Labour,"Banks, Gordon",red
+9.0,1002.0,Scottish National Party,"Bardell, Hannah",yellow
+0.0,1.0,Conservative,"Barker, Gregory",blue
+10.0,42.0,Conservative,"Baron, John",blue
+9.0,491.0,Labour,"Barron, Kevin",red
+8.0,786.0,Labour,"Bayley, Hugh",red
+0.0,2.0,Conservative,"Bebb, Guto",blue
+0.0,7.0,Labour,"Beckett, Margaret",red
+12.0,546.0,Labour,"Begg, Anne",red
+5.0,296.0,Liberal Democrat,"Beith, Alan",orange
+0.0,26.0,Labour,"Bell, Stuart",red
+0.0,61.0,Conservative,"Bellingham, Henry",blue
+3.0,48.0,Labour,"Benn, Hilary",red
+1.0,218.0,Labour,"Benton, Joe",red
+2.0,10.0,Conservative,"Benyon, Richard",blue
+0.0,1.0,Conservative,"Beresford, Paul",blue
+6.0,189.0,Labour,"Berger, Luciana",red
+9.0,547.0,Labour,"Betts, Clive",red
+0.0,4.0,Conservative,"Bingham, Andrew",blue
+11.0,103.0,Conservative,"Binley, Brian",blue
+0.0,63.0,Liberal Democrat,"Birtwistle, Gordon",orange
+1.0,533.0,Scottish National Party,"Black, Mhairi",yellow
+25.0,780.0,Scottish National Party,"Blackford, Ian",yellow
+27.0,686.0,Conservative,"Blackman, Bob",blue
+26.0,369.0,Scottish National Party,"Blackman, Kirsty",yellow
+2.0,226.0,Labour,"Blackman-Woods, Roberta",red
+2.0,96.0,Labour,"Blears, Hazel",red
+20.0,796.0,Labour,"Blenkinsop, Tom",red
+9.0,618.0,Labour,"Blomfield, Paul",red
+3.0,183.0,Labour,"Blunkett, David",red
+1.0,32.0,Conservative,"Blunt, Crispin",blue
+1.0,40.0,Conservative,"Bone, Peter",blue
+0.0,3.0,Conservative,"Borwick, Victoria",blue
+4.0,591.0,Scottish National Party,"Boswell, Phil",yellow
+72.0,4046.0,Conservative,"Bottomley, Peter",blue
+2.0,16.0,Labour/Co-operative,"Brabin, Tracy",pink
+0.0,1.0,Labour,"Bradshaw, Ben",red
+8.0,273.0,Conservative,"Brady, Graham",blue
+43.0,601.0,Liberal Democrat,"Brake, Tom",orange
+0.0,5.0,Conservative,"Bray, Angie",blue
+3.0,68.0,Conservative,"Brazier, Julian",blue
+6.0,90.0,Labour,"Brennan, Kevin",red
+9.0,97.0,Conservative,"Bridgen, Andrew",blue
+3.0,16.0,Conservative,"Brine, Steve",blue
+9.0,627.0,Scottish National Party,"Brock, Deidre",yellow
+36.0,970.0,Liberal Democrat,"Brooke, Annette",orange
+29.0,1349.0,Scottish National Party,"Brown, Alan",yellow
+0.0,2.0,Labour,"Brown, Gordon",red
+0.0,8.0,Labour,"Brown, Lyn",red
+4.0,0.0,,"Brown, Nicholas",black
+0.0,150.0,Labour,"Brown, Nick",red
+1.0,139.0,Labour,"Brown, Russell",red
+29.0,311.0,Conservative,"Bruce, Fiona",blue
+19.0,251.0,Liberal Democrat,"Bruce, Malcolm",orange
+8.0,90.0,Labour,"Bryant, Chris",red
+0.0,49.0,Labour,"Buck, Karen",red
+10.0,360.0,Labour,"Burden, Richard",red
+2.0,74.0,Labour,"Burgon, Richard",red
+2.0,36.0,Conservative,"Burley, Aidan",blue
+0.0,15.0,Labour,"Burnham, Andy",red
+0.0,1.0,Conservative,"Burns, Conor",blue
+1.0,2.0,Conservative,"Burns, Simon",blue
+0.0,1.0,Conservative,"Burrowes, David",blue
+7.0,66.0,Liberal Democrat,"Burstow, Paul",orange
+1.0,8.0,Conservative,"Burt, Alistair",blue
+14.0,394.0,Liberal Democrat,"Burt, Lorely",orange
+10.0,52.0,Labour,"Butler, Dawn",red
+0.0,2.0,Conservative,"Byles, Dan",blue
+5.0,22.0,Labour,"Byrne, Liam",red
+0.0,30.0,Liberal Democrat,"Cable, Vincent",orange
+2.0,154.0,Labour,"Cadbury, Ruth",red
+0.0,30.0,Conservative,"Cairns, Alun",blue
+2.0,70.0,Labour,"Cairns, David",red
+20.0,634.0,Scottish National Party,"Cameron, Lisa",yellow
+0.0,81.0,Labour,"Campbell, Alan",red
+104.0,1701.0,DUP,"Campbell, Gregory",grey
+6.0,465.0,Liberal Democrat,"Campbell, Menzies",orange
+9.0,3331.0,Labour,"Campbell, Ronnie",red
+2.0,22.0,Labour,"Carden, Dan",red
+18.0,132.0,Liberal Democrat,"Carmichael, Alistair",orange
+2.0,82.0,Conservative,"Carmichael, Neil",blue
+1.0,52.0,Conservative,"Carswell, Douglas",blue
+0.0,1.0,Conservative,"Cartlidge, James",blue
+0.0,90.0,Conservative,"Cash, Bill",blue
+9.0,0.0,,"Cash, William",black
+22.0,4182.0,Labour,"Caton, Martin",red
+1.0,33.0,Conservative,"Caulfield, Maria",blue
+3.0,234.0,Labour,"Champion, Sarah",red
+16.0,491.0,Scottish National Party,"Chapman, Douglas",yellow
+2.0,278.0,Labour,"Chapman, Jenny",red
+0.0,6.0,Labour,"Charalambous, Bambos",red
+3.0,675.0,Scottish National Party,"Cherry, Joanna",yellow
+1.0,4.0,Conservative,"Chishti, Rehman",blue
+1.0,11.0,Conservative,"Chope, Christopher",blue
+0.0,2.0,Conservative,"Churchill, Jo",blue
+3.0,46.0,Conservative,"Clappison, James",blue
+79.0,1861.0,Labour,"Clark, Katy",red
+0.0,1.0,Conservative,"Clarke, Kenneth",blue
+11.0,372.0,Labour,"Clarke, Tom",red
+0.0,4.0,Liberal Democrat,"Clegg, Nick",orange
+3.0,10.0,Conservative,"Clifton-Brown, Geoffrey",blue
+47.0,347.0,Labour,"Clwyd, Ann",red
+1.0,116.0,Labour,"Coaker, Vernon",red
+21.0,96.0,Labour,"Coffey, Ann",red
+10.0,82.0,Conservative,"Coffey, Therese",blue
+0.0,2.0,Conservative,"Collins, Damian",blue
+23.0,1017.0,Labour,"Connarty, Michael",red
+0.0,41.0,Labour,"Cooper, Julie",red
+7.0,1242.0,Labour,"Cooper, Rosie",red
+0.0,13.0,Labour,"Cooper, Yvette",red
+196.0,4083.0,Labour,"Corbyn, Jeremy",red
+11.0,491.0,Scottish National Party,"Cowan, Ronnie",yellow
+8.0,52.0,Labour,"Cox, Jo",red
+1.0,59.0,Labour,"Coyle, Neil",red
+0.0,1.0,Conservative,"Crabb, Stephen",blue
+24.0,3335.0,Labour,"Crausby, David",red
+52.0,1159.0,Scottish National Party,"Crawley, Angela",yellow
+4.0,31.0,Labour,"Creagh, Mary",red
+3.0,147.0,Labour,"Creasy, Stella",red
+57.0,961.0,Liberal Democrat,"Crockart, Michael",orange
+12.0,200.0,Conservative,"Crouch, Tracey",blue
+4.0,287.0,Labour,"Cruddas, Jon",red
+29.0,863.0,Labour,"Cryer, John",red
+0.0,5.0,Labour,"Cummins, Judith",red
+22.0,743.0,Labour,"Cunningham, Alex",red
+55.0,2017.0,Labour,"Cunningham, Jim",red
+15.0,691.0,Labour,"Cunningham, Tony",red
+0.0,34.0,Labour,"Curran, Margaret",red
+8.0,517.0,Labour,"Dakin, Nicholas",red
+1.0,199.0,Labour,"Danczuk, Simon",red
+0.0,3.0,Labour,"Darling, Alistair",red
+0.0,3.0,Liberal Democrat,"Davey, Edward",orange
+3.0,147.0,Labour,"David, Wayne",red
+4.0,708.0,Labour,"Davidson, Ian",red
+0.0,11.0,Conservative,"Davies, Byron",blue
+0.0,1.0,Conservative,"Davies, Chris",blue
+0.0,154.0,Conservative,"Davies, David",blue
+5.0,0.0,,"Davies, David TC",black
+20.0,356.0,Labour,"Davies, Geraint",red
+1.0,35.0,Conservative,"Davies, Glyn",blue
+0.0,1.0,Conservative,"Davies, James",blue
+0.0,2.0,Conservative,"Davies, Mims",blue
+17.0,254.0,Conservative,"Davies, Philip",blue
+2.0,79.0,Conservative,"Davis, David",blue
+21.0,1667.0,Scottish National Party,"Day, Martyn",yellow
+0.0,38.0,Labour,"De Piero, Gloria",red
+3.0,104.0,Labour,"Debbonaire, Thangam",red
+0.0,6.0,Labour,"Denham, John",red
+0.0,2.0,Conservative,"Dinenage, Caroline",blue
+1.0,2.0,Conservative,"Djanogly, Jonathan",blue
+36.0,3171.0,Labour,"Dobbin, Jim",red
+7.0,479.0,Labour,"Dobson, Frank",red
+47.0,686.0,Scottish National Party,"Docherty, Martin",yellow
+2.0,39.0,Labour,"Docherty, Thomas",red
+0.0,5.0,Labour/Co-operative,"Dodds, Anneliese",pink
+9.0,2145.0,DUP,"Dodds, Nigel",grey
+0.0,3.0,Sinn F?in,"Doherty, Pat",grey
+10.0,0.0,,"Donaldson, Jeffrey",black
+0.0,1070.0,DUP,"Donaldson, Jeffrey M.",grey
+4.0,678.0,Scottish National Party,"Donaldson, Stuart",yellow
+0.0,1.0,Labour,"Donohoe, Brian H",red
+4.0,768.0,Labour,"Doran, Frank",red
+0.0,9.0,Conservative,"Dorrell, Stephen",blue
+2.0,32.0,Conservative,"Dorries, Nadine",blue
+5.0,178.0,Labour/Co-operative,"Doughty, Stephen",pink
+8.0,687.0,Labour,"Dowd, Jim",red
+0.0,20.0,Labour,"Dowd, Peter",red
+0.0,26.0,Labour,"Doyle, Gemma",red
+0.0,5.0,Conservative,"Doyle-Price, Jackie",blue
+0.0,39.0,Conservative,"Drax, Richard",blue
+0.0,46.0,Labour,"Drew, David",red
+3.0,78.0,Labour,"Dromey, Jack",red
+1.0,1.0,Conservative,"Duddridge, James",blue
+0.0,4.0,Labour,"Duffield, Rosie",red
+1.0,103.0,Labour,"Dugher, Michael",red
+1.0,7.0,Conservative,"Duncan, Alan",blue
+45.0,3774.0,Social Democratic and Labour Party,"Durkan, Mark",grey
+0.0,82.0,Labour,"Eagle, Angela",red
+1.0,61.0,Labour,"Eagle, Maria",red
+55.0,1991.0,Plaid Cymru,"Edwards, Jonathan",grey
+5.0,161.0,Labour,"Efford, Clive",red
+0.0,97.0,Labour,"Elliott, Julie",red
+8.0,207.0,UUP,"Elliott, Tom",grey
+0.0,1.0,Conservative,"Ellison, Jane",blue
+10.0,419.0,Labour,"Ellman, Louise",red
+1.0,3.0,Conservative,"Ellwood, Tobias",blue
+1.0,22.0,Labour,"Elmore, Chris",red
+0.0,1.0,Conservative,"Elphicke, Charlie",blue
+8.0,293.0,Labour,"Engel, Natascha",red
+2.0,710.0,Labour,"Esterson, Bill",red
+0.0,4.0,Conservative,"Eustice, George",blue
+4.0,334.0,Labour,"Evans, Chris",red
+1.0,5.0,Conservative,"Evans, Graham",blue
+2.0,100.0,Conservative,"Evans, Jonathan",blue
+19.0,229.0,Conservative,"Evans, Nigel",blue
+0.0,2.0,Conservative,"Evennett, David",blue
+1.0,4.0,Conservative,"Fabricant, Michael",blue
+0.0,4.0,Conservative,"Fallon, Michael",blue
+7.0,344.0,Labour,"Farrelly, Paul",red
+0.0,574.0,Liberal Democrat,"Farron, Tim",orange
+127.0,0.0,,"Farron, Timothy",black
+16.0,752.0,Scottish National Party,"Fellows, Marion",yellow
+37.0,796.0,Scottish National Party,"Ferrier, Margaret",yellow
+24.0,495.0,Labour,"Field, Frank",red
+11.0,56.0,Conservative,"Field, Mark",blue
+19.0,201.0,Labour,"Fitzpatrick, Jim",red
+0.0,439.0,Labour,"Flello, Rob",red
+27.0,0.0,,"Flello, Robert",black
+2.0,77.0,Labour,"Fletcher, Colleen",red
+1.0,17.0,Labour,"Flint, Caroline",red
+180.0,3406.0,Labour,"Flynn, Paul",red
+4.0,268.0,Liberal Democrat,"Foster, Don",orange
+7.0,240.0,Labour,"Fovargue, Yvonne",red
+0.0,5.0,Conservative,"Fox, Liam",blue
+0.0,53.0,Labour,"Foxcroft, Vicky",red
+11.0,782.0,Labour,"Francis, Hywel",red
+0.0,1.0,Conservative,"Freeman, George",blue
+0.0,2.0,Conservative,"Freer, Mike",blue
+0.0,5.0,Labour,"Frith, James",red
+0.0,2.0,Conservative,"Fullbrook, Lorraine",blue
+1.0,13.0,Labour,"Furniss, Gill",red
+0.0,1.0,Conservative,"Fysh, Marcus",blue
+0.0,11.0,Labour,"Gaffney, Hugh",red
+1.0,3.0,Conservative,"Gale, Roger",blue
+249.0,1323.0,Respect,"Galloway, George",grey
+13.0,1231.0,Labour,"Gapes, Mike",red
+17.0,128.0,Labour,"Gardiner, Barry",red
+0.0,1.0,Conservative,"Garnier, Edward",blue
+0.0,3.0,Conservative,"Garnier, Mark",blue
+31.0,2358.0,Liberal Democrat,"George, Andrew",orange
+43.0,931.0,Scottish National Party,"Gethins, Stephen",yellow
+43.0,485.0,Scottish National Party,"Gibson, Patricia",yellow
+12.0,306.0,Liberal Democrat,"Gilbert, Stephen",orange
+0.0,1.0,Labour/Co-operative,"Gill, Preet Kaur",pink
+0.0,3.0,Conservative,"Gillan, Cheryl",blue
+9.0,428.0,Labour,"Gilmore, Sheila",red
+0.0,7.0,DUP,"Girvan, Paul",grey
+9.0,453.0,Labour,"Glass, Pat",red
+0.0,1.0,Conservative,"Glen, John",blue
+26.0,2657.0,Labour,"Glindon, Mary",red
+112.0,2514.0,Labour,"Godsiff, Roger",red
+1.0,239.0,Labour,"Goggins, Paul",red
+20.0,225.0,Conservative,"Goldsmith, Zac",blue
+22.0,273.0,Labour,"Goodman, Helen",red
+62.0,1091.0,Scottish National Party,"Grady, Patrick",yellow
+0.0,3.0,Conservative,"Grant, Helen",blue
+12.0,492.0,Scottish National Party,"Grant, Peter",yellow
+7.0,556.0,Conservative,"Gray, James",blue
+13.0,916.0,Scottish National Party,"Gray, Neil",yellow
+3.0,81.0,Labour,"Greatrex, Tom",red
+0.0,1.0,Conservative,"Green, Damian",blue
+18.0,332.0,Labour,"Green, Kate",red
+2.0,75.0,Labour,"Greenwood, Lilian",red
+0.0,22.0,Labour,"Greenwood, Margaret",red
+0.0,5.0,Conservative,"Grieve, Dominic",blue
+1.0,132.0,Labour,"Griffith, Nia",red
+6.0,38.0,Conservative,"Griffiths, Andrew",blue
+0.0,5.0,Labour,"Grogan, John",red
+0.0,2.0,Conservative,"Gummer, Ben",blue
+3.0,232.0,Labour,"Gwynne, Andrew",red
+1.0,2.0,Conservative,"Gyimah, Sam",blue
+2.0,30.0,Labour,"Haigh, Louise",red
+2.0,76.0,Labour,"Hain, Peter",red
+202.0,442.0,Conservative,"Halfon, Robert",blue
+2.0,141.0,Liberal Democrat,"Hames, Duncan",orange
+1.0,210.0,Labour,"Hamilton, David",red
+26.0,521.0,Labour,"Hamilton, Fabian",red
+0.0,3.0,Conservative,"Hammond, Stephen",blue
+1.0,6.0,Conservative,"Hancock, Matthew",blue
+44.0,4093.0,Liberal Democrat,"Hancock, Mike",orange
+0.0,1.0,Conservative,"Hands, Greg",blue
+5.0,92.0,Labour,"Hanson, David",red
+0.0,16.0,Labour,"Hardy, Emma",red
+8.0,44.0,Labour,"Harman, Harriet",red
+0.0,49.0,Labour,"Harpham, Harry",red
+1.0,14.0,Conservative,"Harrington, Richard",blue
+5.0,51.0,Labour,"Harris, Carolyn",red
+7.0,203.0,Labour,"Harris, Tom",red
+7.0,237.0,Liberal Democrat,"Harvey, Nick",orange
+2.0,417.0,Labour,"Havard, Dai",red
+2.0,121.0,Labour,"Hayes, Helen",red
+0.0,25.0,Labour,"Hayman, Sue",red
+1.0,43.0,Conservative,"Heald, Oliver",blue
+1.0,41.0,Labour,"Healey, John",red
+97.0,1414.0,Liberal Democrat,"Hemming, John",orange
+10.0,345.0,Conservative,"Henderson, Gordon",blue
+10.0,143.0,Labour,"Hendrick, Mark",red
+0.0,31.0,Conservative,"Hendry, Charles",blue
+25.0,1265.0,Scottish National Party,"Hendry, Drew",yellow
+15.0,1004.0,Labour,"Hepburn, Stephen",red
+0.0,2358.0,UUP,"Hermon, Sylvia",grey
+1.0,581.0,Labour,"Heyes, David",red
+0.0,34.0,Labour,"Hill, Mike",red
+1.0,10.0,Labour,"Hillier, Meg",red
+2.0,203.0,Labour,"Hilling, Julie",red
+0.0,2.0,Conservative,"Hinds, Damian",blue
+0.0,1.0,Conservative,"Hoare, Simon",blue
+0.0,1.0,Conservative,"Hoban, Mark",blue
+0.0,2.0,Liberal Democrat,"Hobhouse, Wera",orange
+2.0,217.0,Labour,"Hodge, Margaret",red
+5.0,173.0,Labour,"Hodgson, Sharon",red
+41.0,542.0,Labour,"Hoey, Kate",red
+0.0,59.0,Labour,"Hollern, Kate",red
+0.0,2.0,Conservative,"Hollingbery, George",blue
+0.0,3.0,Conservative,"Hollinrake, Kevin",blue
+1.0,1.0,Conservative,"Hollobone, Philip",blue
+0.0,8.0,Conservative,"Holloway, Adam",blue
+0.0,519.0,Labour,"Hood, Jimmy",red
+60.0,4653.0,Labour,"Hopkins, Kelvin",red
+21.0,416.0,Liberal Democrat,"Horwood, Martin",orange
+10.0,283.0,Scottish National Party,"Hosie, Stewart",yellow
+31.0,1110.0,Labour,"Howarth, George",red
+0.0,43.0,Conservative,"Howarth, Gerald",blue
+1.0,5.0,Conservative,"Howell, John",blue
+2.0,4.0,Labour,"Hoyle, Lindsay",red
+14.0,348.0,Liberal Democrat,"Hughes, Simon",orange
+0.0,44.0,Liberal Democrat,"Huhne, Christopher",orange
+0.0,1.0,Conservative,"Hunt, Jeremy",blue
+3.0,212.0,Labour,"Hunt, Tristram",red
+2.0,150.0,Liberal Democrat,"Hunter, Mark",orange
+70.0,801.0,Liberal Democrat,"Huppert, Julian",orange
+1.0,57.0,Labour,"Huq, Rupa",red
+1.0,2.0,Conservative,"Hurd, Nick",blue
+3.0,92.0,Labour,"Hussain, Imran",red
+0.0,658.0,Labour,"Illsley, Eric",red
+1.0,25.0,Labour,"Irranca-Davies, Huw",red
+4.0,1314.0,Labour,"Jackson, Glenda",red
+1.0,73.0,Conservative,"Jackson, Stewart",blue
+0.0,1.0,Conservative,"James, Margot",blue
+2.0,0.0,,"James, Sian C",black
+0.0,124.0,Labour,"James, Si?n",red
+4.0,275.0,Labour,"Jamieson, Cathy",red
+0.0,10.0,Liberal Democrat,"Jardine, Christine",orange
+0.0,74.0,Labour,"Jarvis, Dan",red
+0.0,2.0,Conservative,"Javid, Sajid",blue
+6.0,41.0,Conservative,"Jenkin, Bernard",blue
+0.0,3.0,Conservative,"Jenkyns, Andrea",blue
+0.0,3.0,Conservative,"Jenrick, Robert",blue
+10.0,0.0,,"Jnr, Ian Paisley",black
+4.0,101.0,Labour,"Johnson, Alan",red
+0.0,1.0,Conservative,"Johnson, Boris",blue
+2.0,0.0,,"Johnson, Diana R",black
+0.0,73.0,Labour,"Johnson, Diana R.",red
+1.0,2.0,Conservative,"Johnson, Gareth",blue
+0.0,11.0,Conservative,"Johnson, Jo",blue
+0.0,2.0,Conservative,"Jones, Andrew",blue
+0.0,6.0,Conservative,"Jones, David",blue
+1.0,55.0,Labour,"Jones, Gerald",red
+6.0,148.0,Labour,"Jones, Graham",red
+0.0,6.0,Labour,"Jones, Helen",red
+6.0,99.0,Labour,"Jones, Kevan",red
+1.0,68.0,Conservative,"Jones, Marcus",blue
+0.0,4.0,Labour,"Jones, Sarah",red
+2.0,59.0,Labour,"Jones, Susan Elan",red
+0.0,96.0,Labour,"Jowell, Tessa",red
+14.0,147.0,Labour,"Joyce, Eric",red
+0.0,15.0,Labour,"Kane, Mike",red
+30.0,493.0,Labour,"Kaufman, Gerald",red
+13.0,29.0,Conservative,"Kawczynski, Daniel",blue
+0.0,21.0,Labour,"Keeley, Barbara",red
+3.0,161.0,Labour,"Keen, Alan",red
+0.0,1.0,Conservative,"Kelly, Chris",blue
+2.0,19.0,Labour,"Kendall, Liz",red
+4.0,246.0,Liberal Democrat,"Kennedy, Charles",orange
+18.0,331.0,Scottish National Party,"Kerevan, George",yellow
+4.0,208.0,Scottish National Party,"Kerr, Calum",yellow
+0.0,1.0,Conservative,"Kerr, Stephen",blue
+0.0,2.0,Labour,"Khan, Afzal",red
+1.0,19.0,Labour,"Khan, Sadiq",red
+0.0,6.0,Labour/Co-operative,"Killen, Gerard",pink
+14.0,295.0,UUP,"Kinahan, Danny",grey
+0.0,121.0,Labour,"Kinnock, Stephen",red
+1.0,93.0,Conservative,"Kirby, Simon",blue
+2.0,108.0,Conservative,"Knight, Greg",blue
+0.0,1.0,Conservative,"Knight, Julian",blue
+0.0,10.0,Labour,"Kyle, Peter",red
+5.0,73.0,Conservative,"Laing, Eleanor",blue
+2.0,35.0,Plaid Cymru,"Lake, Ben",grey
+26.0,133.0,Liberal Democrat,"Lamb, Norman",orange
+16.0,212.0,Labour,"Lammy, David",red
+1.0,1.0,Conservative,"Lamont, John",blue
+1.0,8.0,Conservative,"Lancaster, Mark",blue
+0.0,2.0,Conservative,"Latham, Pauline",blue
+42.0,1409.0,Labour,"Lavery, Ian",red
+33.0,1702.0,Scottish National Party,"Law, Chris",yellow
+0.0,19.0,Liberal Democrat,"Laws, David",orange
+9.0,584.0,Labour,"Lazarowicz, Mark",red
+0.0,2.0,Conservative,"Leadsom, Andrea",blue
+0.0,16.0,Conservative,"Lee, Jessica",blue
+115.0,3274.0,Liberal Democrat,"Leech, John",orange
+1.0,53.0,Conservative,"Lefroy, Jeremy",blue
+5.0,168.0,Conservative,"Leigh, Edward",blue
+10.0,65.0,Conservative,"Leslie, Charlotte",blue
+0.0,46.0,Labour,"Leslie, Chris",red
+2.0,0.0,,"Leslie, Christopher",black
+0.0,2.0,Conservative,"Letwin, Oliver",blue
+2.0,73.0,Labour,"Lewell-Buck, Emma",red
+0.0,2.0,Conservative,"Lewis, Brandon",blue
+3.0,136.0,Labour,"Lewis, Clive",red
+1.0,38.0,Labour,"Lewis, Ivan",red
+8.0,806.0,Conservative,"Lewis, Julian",blue
+0.0,5.0,Conservative,"Liddell-Grainger, Ian",blue
+0.0,39.0,Conservative,"Lilley, Peter",blue
+2.0,102.0,Scottish National Party,"Linden, David",yellow
+0.0,3.0,DUP,"Little Pengelly, Emma",grey
+1.0,0.0,,Liz,black
+29.0,434.0,Liberal Democrat,"Lloyd, Stephen",orange
+19.0,886.0,Labour,"Lloyd, Tony",red
+54.0,2055.0,Plaid Cymru,"Llwyd, Elfyn",grey
+15.0,1700.0,Alliance,"Long, Naomi",grey
+0.0,29.0,Labour,"Long-Bailey, Rebecca",red
+4.0,55.0,Conservative,"Lopresti, Jack",blue
+0.0,4.0,Conservative,"Lord, Jonathan",blue
+0.0,1.0,Conservative,"Loughton, Tim",blue
+12.0,446.0,Labour,"Love, Andrew",red
+162.0,2582.0,Green,"Lucas, Caroline",green
+1.0,92.0,Labour,"Lucas, Ian",red
+1.0,2.0,Conservative,"Luff, Peter",blue
+0.0,4.0,Conservative,"Lumley, Karen",blue
+0.0,9.0,Labour,"Lynch, Holly",red
+31.0,1515.0,Scottish National Party,"MacNeil, Angus",yellow
+2.0,32.0,Labour,"MacShane, Denis",red
+0.0,3.0,Conservative,"Macleod, Mary",blue
+5.0,180.0,Labour,"Mactaggart, Fiona",red
+2.0,45.0,Labour,"Madders, Justin",red
+0.0,110.0,Labour,"Mahmood, Khalid",red
+1.0,34.0,Labour,"Mahmood, Shabana",red
+16.0,177.0,Conservative,"Main, Anne",blue
+0.0,5.0,Conservative,"Mak, Alan",blue
+0.0,58.0,Labour/Co-operative,"Malhotra, Seema",pink
+111.0,525.0,Labour,"Mann, John",red
+0.0,7.0,Conservative,"Mann, Scott",blue
+0.0,1.0,Labour,"Marris, Rob",red
+20.0,625.0,Labour,"Marsden, Gordon",red
+1.0,14.0,Labour,"Martin, Sandy",red
+7.0,438.0,Labour/Co-operative,"Maskell, Rachael",pink
+1.0,1.0,Conservative,"Masterton, Paul",blue
+4.0,165.0,Labour,"Matheson, Chris",red
+1.0,32.0,Conservative,"Mathias, Tania",blue
+15.0,274.0,Labour,"McCabe, Steve",red
+7.0,315.0,Scottish National Party,"McCaig, Callum",yellow
+0.0,2.0,Labour,"McCann, Michael",red
+2.0,203.0,Labour,"McCarthy, Kerry",red
+0.0,5.0,Conservative,"McCartney, Jason",blue
+5.0,98.0,Conservative,"McCartney, Karl",blue
+0.0,2.0,Labour,"McClymont, Gregg",red
+6.0,0.0,,"McCrea, Dr William",black
+0.0,2157.0,DUP,"McCrea, William",grey
+9.0,161.0,Labour,"McDonagh, Siobhain",red
+3.0,0.0,,"McDonald, Andrew",black
+0.0,143.0,Labour,"McDonald, Andy",red
+19.0,555.0,Scottish National Party,"McDonald, Stewart",yellow
+10.0,394.0,Scottish National Party,"McDonald, Stuart",yellow
+2.0,2541.0,Social Democratic and Labour Party,"McDonnell, Alasdair",grey
+245.0,0.0,,"McDonnell, John",black
+0.0,4272.0,Labour,"McDonnell, John Martin",red
+15.0,936.0,Scottish National Party,"McGarry, Natalie",yellow
+1.0,78.0,Labour,"McGinn, Conor",red
+10.0,220.0,Labour,"McGovern, Alison",red
+23.0,1368.0,Labour,"McGovern, Jim",red
+3.0,115.0,Labour,"McGuire, Anne",red
+3.0,383.0,Labour,"McInnes, Liz",red
+1.0,13.0,Conservative,"McIntosh, Anne",blue
+1.0,49.0,Labour,"McKechin, Ann",red
+4.0,140.0,,"McKenzie, Iain",black
+5.0,193.0,Labour,"McKinnell, Catherine",red
+24.0,513.0,Scottish National Party,"McLaughlin, Anne",yellow
+0.0,5.0,Labour/Co-operative,"McMahon, Jim",pink
+1.0,8.0,Labour,"McMorrin, Anna",red
+8.0,977.0,Scottish National Party,"McNally, John",yellow
+1.0,7.0,Conservative,"McPartland, Stephen",blue
+0.0,9.0,Conservative,"McVey, Esther",blue
+6.0,286.0,Labour,"Meacher, Michael",red
+244.0,5490.0,Labour,"Meale, Alan",red
+63.0,1204.0,Labour,"Mearns, Ian",red
+1.0,9.0,Conservative,"Mensch, Louise",blue
+0.0,5.0,Conservative,"Menzies, Mark",blue
+4.0,45.0,Conservative,"Mercer, Patrick",blue
+10.0,101.0,Conservative,"Metcalfe, Stephen",blue
+13.0,148.0,Labour,"Michael, Alun",red
+0.0,21.0,Labour,"Miliband, David",red
+0.0,27.0,Labour,"Miliband, Ed",red
+15.0,0.0,,"Miliband, Edward",black
+19.0,392.0,Labour,"Miller, Andrew",red
+0.0,4.0,Conservative,"Miller, Maria",blue
+0.0,1.0,Conservative,"Milling, Amanda",blue
+0.0,8.0,Conservative,"Mills, Nigel",blue
+1.0,7.0,Conservative,"Mitchell, Andrew",blue
+51.0,427.0,Labour,"Mitchell, Austin",red
+15.0,939.0,Scottish National Party,"Monaghan, Carol",yellow
+99.0,1264.0,Scottish National Party,"Monaghan, Paul",yellow
+0.0,1.0,Labour,"Moon, Madeleine",red
+0.0,1.0,Liberal Democrat,"Moore, Michael",orange
+2.0,17.0,Liberal Democrat,"Moran, Layla",orange
+8.0,191.0,Conservative,"Mordaunt, Penny",blue
+4.0,285.0,Labour,"Morden, Jessica",red
+0.0,9.0,Labour,"Morgan, Stephen",red
+26.0,843.0,Labour,"Morrice, Graeme",red
+157.0,499.0,Conservative,"Morris, David",blue
+48.0,1466.0,Labour,"Morris, Grahame",red
+0.0,6.0,Conservative,"Morris, James",blue
+0.0,9.0,Conservative,"Mosley, Stephen",blue
+7.0,92.0,Conservative,"Mowat, David",blue
+1.0,438.0,Labour,"Mudie, George",red
+265.0,1098.0,Liberal Democrat,"Mulholland, Greg",orange
+46.0,626.0,Scottish National Party,"Mullin, Roger",yellow
+0.0,1.0,Conservative,"Mundell, David",blue
+0.0,1.0,Labour,"Munn, Meg",red
+2.0,344.0,Liberal Democrat,"Munt, Tessa",orange
+1.0,8.0,Labour,"Murphy, Jim",red
+7.0,555.0,Labour,"Murphy, Paul",red
+16.0,207.0,Labour,"Murray, Ian",red
+0.0,1.0,Conservative,"Murray, Sheryll",blue
+0.0,3.0,Conservative,"Murrison, Andrew",blue
+11.0,305.0,Labour,"Nandy, Lisa",red
+2.0,131.0,Labour,"Nash, Pamela",red
+0.0,12.0,Conservative,"Neill, Bob",blue
+1.0,0.0,,"Neill, Robert",black
+37.0,786.0,Scottish National Party,"Newlands, Gavin",yellow
+1.0,10.0,Conservative,"Newmark, Brooks",blue
+4.0,10.0,Conservative,"Newton, Sarah",blue
+2.0,856.0,Scottish National Party,"Nicolson, John",yellow
+2.0,29.0,Conservative,"Nokes, Caroline",blue
+1.0,1.0,Conservative,"Norman, Jesse",blue
+0.0,4.0,Labour/Co-operative,"Norris, Alex",pink
+0.0,5.0,Conservative,"Nuttall, David",blue
+0.0,1.0,Conservative,"O'Brien, Stephen",blue
+15.0,286.0,Labour,"O'Donnell, Fiona",red
+44.0,578.0,Scottish National Party,"O'Hara, Brendan",yellow
+0.0,1.0,Conservative,"Offord, Matthew",blue
+0.0,2.0,Conservative,"Ollerenshaw, Eric",blue
+1.0,33.0,,"Olney, Sarah",black
+0.0,2.0,Labour,"Onasanya, Fiona",red
+2.0,30.0,Labour,"Onn, Melanie",red
+0.0,89.0,Labour,"Onwurah, Chi",red
+1.0,0.0,,"Onwurah, Chinyelu",black
+0.0,11.0,Conservative,"Opperman, Guy",blue
+0.0,72.0,Labour/Co-operative,"Osamor, Kate",pink
+9.0,1447.0,Labour,"Osborne, Sandra",red
+59.0,817.0,Scottish National Party,"Oswald, Kirsten",yellow
+1.0,52.0,Conservative,"Ottaway, Richard",blue
+10.0,949.0,Labour,"Owen, Albert",red
+0.0,3.0,Conservative,"Paice, James",blue
+0.0,372.0,DUP,"Paisley Jnr, Ian",grey
+6.0,74.0,Conservative,"Parish, Neil",blue
+0.0,1.0,Conservative,"Patel, Priti",blue
+0.0,1.0,Conservative,"Paterson, Owen",blue
+9.0,522.0,Scottish National Party,"Paterson, Steven",yellow
+2.0,16.0,Conservative,"Pawsey, Mark",blue
+0.0,23.0,Labour,"Peacock, Stephanie",red
+9.0,277.0,Labour,"Pearce, Teresa",red
+0.0,28.0,Labour,"Pennycook, Matthew",red
+1.0,2.0,Conservative,"Penrose, John",blue
+2.0,82.0,Conservative,"Percy, Andrew",blue
+2.0,112.0,Labour,"Perkins, Toby",red
+0.0,1.0,Conservative,"Perry, Claire",blue
+2.0,69.0,Labour,"Phillips, Jess",red
+0.0,34.0,Labour,"Phillipson, Bridget",red
+0.0,6.0,Conservative,"Philp, Chris",blue
+0.0,5.0,Conservative,"Pickles, Eric",blue
+0.0,2.0,Conservative,"Pincher, Christopher",blue
+0.0,18.0,Labour/Co-operative,"Pollard, Luke",pink
+0.0,3.0,Conservative,"Poulter, Daniel",blue
+3.0,0.0,,"Pound, Stephen",black
+0.0,118.0,Labour,"Pound, Steve",red
+2.0,47.0,Labour/Co-operative,"Powell, Lucy",pink
+0.0,9.0,Conservative,"Pritchard, Mark",blue
+11.0,1092.0,Liberal Democrat,"Pugh, John",orange
+9.0,1403.0,Labour,"Qureshi, Yasmin",red
+0.0,3.0,Conservative,"Raab, Dominic",blue
+0.0,2.0,Conservative,"Randall, John",blue
+0.0,63.0,Labour,"Rayner, Angela",red
+0.0,4.0,Labour,"Raynsford, Nick",red
+2.0,100.0,Conservative,"Reckless, Mark",blue
+0.0,17.0,Conservative,"Redwood, John",blue
+7.0,63.0,Labour,"Reed, Jamie",red
+0.0,17.0,Labour/Co-operative,"Reed, Steve",pink
+2.0,43.0,Labour,"Rees, Christina",red
+0.0,5.0,Conservative,"Rees-Mogg, Jacob",blue
+5.0,124.0,Conservative,"Reevell, Simon",blue
+0.0,7.0,Labour,"Reeves, Ellie",red
+1.0,62.0,Labour,"Reeves, Rachel",red
+3.0,238.0,Liberal Democrat,"Reid, Alan",orange
+0.0,133.0,Labour,"Reynolds, Emma",red
+0.0,32.0,Labour,"Reynolds, Jonathan",red
+0.0,10.0,Conservative,"Rifkind, Malcolm",blue
+5.0,195.0,Labour,"Rimmer, Marie",red
+23.0,1143.0,Labour,"Riordan, Linda",red
+68.0,2827.0,Social Democratic and Labour Party,"Ritchie, Margaret",grey
+21.0,0.0,,"Roberts, Liz Saville",black
+5.0,258.0,Scottish National Party,"Robertson, Angus",yellow
+17.0,477.0,Labour,"Robertson, John",red
+7.0,119.0,Conservative,"Robertson, Laurence",blue
+1.0,651.0,DUP,"Robinson, Gavin",grey
+0.0,251.0,Labour,"Robinson, Geoffrey",red
+1.0,1.0,Labour,"Rodda, Matt",red
+0.0,604.0,Liberal Democrat,"Rogerson, Dan",orange
+12.0,0.0,,"Rogerson, Daniel",black
+74.0,554.0,Conservative,"Rosindell, Andrew",blue
+27.0,1338.0,Labour,"Rotheram, Steve",red
+0.0,2.0,Labour,"Rowley, Danielle",red
+2.0,121.0,Labour,"Roy, Frank",red
+7.0,1589.0,Labour,"Roy, Lindsay",red
+19.0,419.0,Labour,"Ruane, Chris",red
+11.0,773.0,Labour,"Ruddock, Joan",red
+138.0,1766.0,Liberal Democrat,"Russell, Bob",orange
+0.0,18.0,Labour/Co-operative,"Russell-Moyle, Lloyd",pink
+1.0,3.0,Conservative,"Rutley, David",blue
+2.0,68.0,Labour,"Ryan, Joan",red
+5.0,784.0,Scottish National Party,"Salmond, Alex",yellow
+0.0,1.0,Conservative,"Sandbach, Antoinette",blue
+78.0,1047.0,Liberal Democrat,"Sanders, Adrian",orange
+5.0,191.0,Labour,"Sarwar, Anas",red
+0.0,796.0,Plaid Cymru,"Saville-Roberts, Liz",grey
+1.0,64.0,,"Sawford, Andy",black
+1.0,3.0,Conservative,"Scott, Lee",blue
+0.0,2.0,Conservative,"Scully, Paul",blue
+1.0,22.0,Labour,"Seabeck, Alison",red
+3.0,0.0,,Seema,black
+0.0,4.0,Conservative,"Selous, Andrew",blue
+1.0,30.0,Labour,"Shah, Naseem",red
+256.0,4694.0,DUP,"Shannon, Jim",grey
+0.0,2.0,Conservative,"Sharma, Alok",blue
+0.0,2239.0,Labour,"Sharma, Virendra",red
+40.0,0.0,,"Sharma, Virendra Kumar",black
+68.0,595.0,Labour,"Sheerman, Barry",red
+20.0,0.0,,"Sheikh, Tasmina",black
+1.0,17.0,Conservative,"Shelbrooke, Alec",blue
+1.0,43.0,Conservative,"Shepherd, Richard",blue
+12.0,361.0,Scottish National Party,"Sheppard, Tommy",yellow
+50.0,834.0,Labour,"Sheridan, Jim",red
+3.0,80.0,Labour,"Sherriff, Paula",red
+3.0,83.0,Labour,"Shuker, Gavin",red
+4.0,24.0,Labour,"Siddiq, Tulip",red
+21.0,2785.0,DUP,"Simpson, David",grey
+1.0,2.0,Conservative,"Simpson, Keith",blue
+3.0,456.0,Labour,"Singh, Marsha",red
+5.0,14.0,Conservative,"Skidmore, Chris",blue
+0.0,1808.0,Labour,"Skinner, Dennis",red
+0.0,180.0,Labour,"Slaughter, Andrew",red
+12.0,0.0,,"Slaughter, Andy",black
+6.0,159.0,Labour,"Smeeth, Ruth",red
+0.0,81.0,Labour,"Smith, Angela",red
+5.0,0.0,,"Smith, Angela C",black
+1.0,59.0,Labour,"Smith, Cat",red
+0.0,5.0,Conservative,"Smith, Chloe",blue
+1.0,2.0,Labour,"Smith, Eleanor",red
+0.0,3.0,Conservative,"Smith, Henry",blue
+0.0,30.0,Labour,"Smith, Jeff",red
+1.0,8.0,Conservative,"Smith, Julian",blue
+0.0,15.0,Labour,"Smith, Laura",red
+6.0,285.0,Labour,"Smith, Nick",red
+2.0,92.0,Labour,"Smith, Owen",red
+10.0,143.0,Liberal Democrat,"Smith, Robert",orange
+0.0,3.0,Labour,"Smyth, Karin",red
+2.0,15.0,Labour/Co-operative,"Snell, Gareth",pink
+3.0,145.0,Conservative,"Soames, Nicholas",blue
+0.0,13.0,Labour/Co-operative,"Sobel, Alex",pink
+0.0,19.0,Labour,"Soulsby, Peter",red
+0.0,69.0,Labour,"Spellar, John",red
+2.0,38.0,Conservative,"Spelman, Caroline",blue
+0.0,12.0,Conservative,"Stanley, John",blue
+1.0,14.0,Labour,"Starmer, Keir",red
+39.0,1866.0,Scottish National Party,"Stephens, Chris",yellow
+9.0,401.0,Conservative,"Stephenson, Andrew",blue
+4.0,153.0,Labour,"Stevens, Jo",red
+0.0,6.0,Conservative,"Stevenson, John",blue
+0.0,16.0,Conservative,"Stewart, Bob",blue
+2.0,7.0,Conservative,"Stewart, Iain",blue
+0.0,6.0,Conservative,"Stewart, Rory",blue
+0.0,2.0,Liberal Democrat,"Stone, Jamie",orange
+0.0,10.0,Labour,"Straw, Jack",red
+7.0,163.0,Conservative,"Streeter, Gary",blue
+5.0,250.0,Labour,"Streeting, Wes",red
+16.0,921.0,Labour,"Stringer, Graham",red
+1.0,33.0,Labour,"Stuart, Gisela",red
+5.0,86.0,Conservative,"Stuart, Graham",blue
+8.0,560.0,Liberal Democrat,"Stunell, Andrew",orange
+0.0,30.0,Conservative,"Sturdy, Julian",blue
+5.0,262.0,Labour,"Sutcliffe, Gerry",red
+12.0,342.0,Liberal Democrat,"Swales, Ian",orange
+0.0,11.0,Conservative,"Swayne, Desmond",blue
+1.0,15.0,Labour,"Sweeney, Paul",red
+14.0,157.0,Liberal Democrat,"Swinson, Jo",orange
+0.0,90.0,Conservative,"Syms, Robert",blue
+4.0,290.0,Labour,"Tami, Mark",red
+0.0,1.0,Conservative,"Tapsell, Peter",blue
+10.0,80.0,Liberal Democrat,"Teather, Sarah",orange
+50.0,1096.0,Scottish National Party,"Thewliss, Alison",yellow
+0.0,1.0,Conservative,"Thomas, Derek",blue
+12.0,73.0,Labour,"Thomas, Gareth",red
+1.0,67.0,Labour,"Thomas-Symonds, Nick",red
+25.0,1102.0,Scottish National Party,"Thompson, Owen",yellow
+2.0,294.0,Scottish National Party,"Thomson, Michelle",yellow
+2.0,84.0,Labour,"Thornberry, Emily",red
+5.0,140.0,,"Thornton, Mike",black
+8.0,287.0,Liberal Democrat,"Thurso, John",orange
+1.0,69.0,Labour,"Timms, Stephen",red
+0.0,9.0,Conservative,"Tolhurst, Kelly",blue
+0.0,3.0,Conservative,"Tomlinson, Justin",blue
+0.0,1.0,Conservative,"Tracey, Craig",blue
+13.0,171.0,Conservative,"Tredinnick, David",blue
+0.0,10.0,Conservative,"Trevelyan, Anne-Marie",blue
+4.0,59.0,Labour,"Trickett, Jon",red
+2.0,26.0,Labour/Co-operative,"Turley, Anna",pink
+0.0,1.0,Conservative,"Turner, Andrew",blue
+14.0,144.0,Labour,"Turner, Karl",red
+2.0,67.0,Labour,"Twigg, Derek",red
+6.0,165.0,Labour,"Twigg, Stephen",red
+0.0,4.0,Labour,"Twist, Liz",red
+0.0,1.0,Conservative,"Tyrie, Andrew",blue
+5.0,114.0,Labour,"Umunna, Chuka",red
+0.0,4.0,Conservative,"Uppal, Paul",blue
+0.0,1.0,Conservative,"Vaizey, Ed",blue
+263.0,1212.0,Labour,"Vaz, Keith",red
+130.0,1291.0,Labour,"Vaz, Valerie",red
+3.0,318.0,Conservative,"Vickers, Martin",blue
+0.0,1.0,Conservative,"Walker, Charles",blue
+2.0,168.0,Conservative,"Walker, Robin",blue
+0.0,24.0,Labour,"Walker, Thelma",red
+0.0,1.0,Conservative,"Wallace, Ben",blue
+11.0,725.0,Labour,"Walley, Joan",red
+0.0,112.0,Conservative,"Walter, Robert",blue
+1.0,9.0,Conservative,"Warburton, David",blue
+19.0,1033.0,Liberal Democrat,"Ward, David",orange
+0.0,20.0,Conservative,"Watkinson, Angela",blue
+28.0,227.0,Labour,"Watson, Tom",red
+3.0,412.0,Labour,"Watts, Dave",red
+13.0,231.0,Conservative,"Weatherley, Mike",blue
+0.0,1563.0,Scottish National Party,"Weir, Michael",yellow
+14.0,0.0,,"Weir, Mike",black
+4.0,59.0,Labour,"West, Catherine",red
+0.0,31.0,Labour,"Western, Matt",red
+0.0,3.0,Conservative,"Wheeler, Heather",blue
+4.0,36.0,Conservative,"White, Chris",blue
+15.0,428.0,Scottish National Party,"Whiteford, Eilidh",yellow
+9.0,49.0,Labour,"Whitehead, Alan",red
+1.0,5.0,Labour,"Whitfield, Martin",red
+16.0,451.0,Scottish National Party,"Whitford, Philippa",yellow
+2.0,101.0,Conservative,"Whittaker, Craig",blue
+6.0,94.0,Conservative,"Whittingdale, John",blue
+1.0,62.0,Labour,"Wicks, Malcolm",red
+4.0,9.0,Conservative,"Wiggin, Bill",blue
+1.0,4.0,Conservative,"Willetts, David",blue
+50.0,1401.0,Plaid Cymru,"Williams, Hywel",grey
+53.0,2063.0,Liberal Democrat,"Williams, Mark",orange
+19.0,602.0,Liberal Democrat,"Williams, Roger",orange
+17.0,971.0,Liberal Democrat,"Williams, Stephen",orange
+14.0,313.0,Labour,"Williamson, Chris",red
+2.0,22.0,Conservative,"Williamson, Gavin",blue
+0.0,89.0,Liberal Democrat,"Willott, Jennifer",orange
+3.0,0.0,,"Willott, Jenny",black
+46.0,764.0,Scottish National Party,"Wilson, Corri",yellow
+3.0,41.0,Labour,"Wilson, Phil",red
+0.0,1.0,Conservative,"Wilson, Rob",blue
+6.0,516.0,DUP,"Wilson, Sammy",grey
+8.0,150.0,Labour,"Winnick, David",red
+0.0,47.0,Labour,"Winterton, Rosie",red
+13.0,457.0,Scottish National Party,"Wishart, Pete",yellow
+8.0,642.0,Labour,"Wood, Mike",red
+3.0,54.0,Labour,"Woodcock, John",red
+0.0,171.0,Labour,"Woodward, Shaun",red
+0.0,2.0,Labour,"Woolas, Phil",red
+0.0,3.0,Conservative,"Wragg, William",blue
+3.0,293.0,Labour,"Wright, David",red
+2.0,92.0,Labour,"Wright, Iain",red
+4.0,270.0,Liberal Democrat,"Wright, Simon",orange
+1.0,40.0,Conservative,"Yeo, Tim",blue
+0.0,2.0,Conservative,"Zahawi, Nadhim",blue
+3.0,85.0,Labour,"Zeichner, Daniel",red
+0.0,8.0,Conservative,"de Bois, Nick",blue
