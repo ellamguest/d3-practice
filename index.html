@@ -42,7 +42,15 @@
 					line-height: 20px;
 				}
 
+				button {
+				  position: absolute;
+				  right: 30px;
+				  top: 30px;
+				}
+
+
 		</style>
+		<button>Reset</button>
 	</head>
 	<body>
 		<div id="tooltip" class="hidden">
@@ -62,56 +70,67 @@
 
 		var tooltip = d3.select("body").append("div")
 	    .attr("class", "tooltip")
-	    .style("opacity", 0);
+	    .style("opacity", 0)
+			.style("text-align", "center")
+			.style("position", "absolute")
+			.style("background", "lightsteelblue")
+			.style("width", "130px")
+			.style("height", "50px")
+			.style("padding", "2px")
+			.style("border", "2px")
+			.style("border-radius", "8px");
 
-			//Create scale functions
-			//var xMax = d3.max(dataset, function(d) { return d[0]; })
-			//var yMax = d3.max(dataset, function(d) { return d[1]; })
-			//d3.max(data, function(d){return d['pcount']})
-			var xMax = 1722
-			var yMax = 67
 
-			var xScale = d3.scale.linear()
-								 .domain([0, xMax])
-								 .range([padding, w - padding * 2]);
 
-			var yScale = d3.scale.linear()
-								 .domain([0, yMax])
-								 .range([h - padding, padding]);
-
-			 //Define X axis
- 			var xAxis = d3.svg.axis()
- 							  .scale(xScale)
- 							  .orient("bottom")
- 							  .ticks(5)
- 							 ;
-
- 			//Define Y axis
- 			var yAxis = d3.svg.axis()
- 							  .scale(yScale)
- 							  .orient("left")
- 							  .ticks(5)
- 							  ;
-
-			//Create SVG element
-			var svg = d3.select("body")
-						.append("svg")
-						.attr("width", w)
-						.attr("height", h);
 
 		 d3.csv("edm_counts.csv", function(dataset) {
 		 		dataset.forEach(function(d){
 					d['scount'] = +d['scount'];
 					d['pcount'] = +d['pcount'];
 				});
-		 		console.log(dataset);
+
+				//Create scale functions and axes
+				var xMax = d3.max(dataset, function(d){return d.scount;})
+				var yMax = d3.max(dataset, function(d){return d.pcount;})
+
+				var xScale = d3.scale.linear()
+									 .domain([0, xMax])
+									 .range([padding, w - padding * 2]);
+
+				var yScale = d3.scale.linear()
+									 .domain([0, yMax])
+									 .range([h - padding, padding]);
+
+				 //Define X axis
+	 			var xAxis = d3.svg.axis().scale(xScale).orient("bottom").ticks(5);
+
+	 			//Define Y axis
+	 			var yAxis = d3.svg.axis().scale(yScale).orient("left").ticks(5);
+
+				//Trying zoom behaviour
+				var zoom = d3.behavior.zoom()
+							    .x(xScale)
+							    .y(yScale)
+							    .scaleExtent([1, 10])
+							    .on("zoom", zoomed);
+
+				//Create SVG element
+				var svg = d3.select("body")
+							.append("svg")
+								.attr("width", w)
+								.attr("height", h)
+							.append("g")
+								.attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+								.call(zoom);
+
 				svg.selectAll("circle")
 							.data(dataset)
 						  .enter().append("circle")
-								//.attr("class", "dot")
+								.attr("class", "dot")
 						   	.attr("cx", function(d) {return xScale(d.scount);})
 						   	.attr("cy", function(d) {return yScale(d.pcount);})
 						   	.attr("r", 4)
+								.attr("opacity", 0.8)
 							 	.attr("fill", function(d) {return d.colour;})
 								.on("mouseover", function(d) {
 				          tooltip.transition()
@@ -139,7 +158,7 @@
 					      .attr("class", "label")
 					      .attr("x",w*19/20)
 					      .attr("y", -6)
-					      .style("text-anchor", "end")
+					      .style("text-anchor", "middle")
 					      .text("# signed edms");
 
 		 			//Create Y axis
@@ -149,11 +168,12 @@
 		 				.call(yAxis)
 						.append("text")
 						      .attr("class", "label")
-						      .attr("y", 6)
+									.attr("x", -10)
+						      .attr("y", margin.top/4)
 									.attr("dy", ".71em")
 									.attr("transform", "rotate(-90)")
 						      .style("text-anchor", "end")
-									.text('# Proposed EDMs');
+									.text('# proposed edms');
 
 					//Add title to scatterplot
 					svg.append("text")
@@ -164,7 +184,27 @@
 						.style("font-family", "sans-serif")
 		        .style("text-decoration", "bold")
 		        .text("# edms signed vs proposed by MP");
-		 		});
+
+					//Add zoom reset button
+
+					d3.select("button").on("click", reset);
+
+					function zoomed() {
+						  svg.select(".x.axis").call(xAxis);
+						  svg.select(".y.axis").call(yAxis);
+						}
+
+					function reset() {
+						  d3.transition().duration(750).tween("zoom", function() {
+						    var ix = d3.interpolate(x.domain(), [-width / 2, width / 2]),
+						        iy = d3.interpolate(y.domain(), [-height / 2, height / 2]);
+						    return function(t) {
+						      zoom.x(x.domain(ix(t))).y(y.domain(iy(t)));
+						      zoomed();
+						    };
+						  });
+				};
+			});
 
 
 		</script>
