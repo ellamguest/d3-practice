@@ -80,9 +80,6 @@
 			.style("border", "2px")
 			.style("border-radius", "8px");
 
-
-
-
 		 d3.csv("edm_counts.csv", function(dataset) {
 		 		dataset.forEach(function(d){
 					d['scount'] = +d['scount'];
